@@ -20,7 +20,7 @@ export default function Landing() {
         </ul>
       </nav>
       <footer>
-        <p id="footer-copyright">© Beams.gg</p>
+        <p id="footer-copyright">© 2024 Beams. All Rights Reserved.</p>
       </footer>
     </div>
   );
