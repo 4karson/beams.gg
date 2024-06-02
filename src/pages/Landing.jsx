@@ -5,7 +5,7 @@ export default function Landing() {
     <div className="wrapper">
       <header className="drop-shadow">
         <h1 className="title outfit-font text-shadow">
-          Welcome to Beams.GG
+          Welcome to Beams<span>.GG</span>
         </h1>
         <p className="subtitle text-shadow">Rust Gaming Community Since 2023</p>
       </header>
